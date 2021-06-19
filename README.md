@@ -15,7 +15,10 @@
 <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="60px"/> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="55px"/>
 
 ## How to reach me 
-📧 greatparkhc9@naver.com <br><br>
+ <a href="mailto:greatparkhc@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=naver"
+            style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
+    </a>
 <!---
 Rochelle-96/Rochelle-96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
