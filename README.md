@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rochelle-96
 - 🌱 I’m currently learning SpringFramework
 - 📫 How to reach me ☏ 010-5739-6739 <br>
-                      📧 greatparkhc9@naver.com
+&nbsp;&nbsp;&nbsp;&nbsp;📧 greatparkhc9@naver.com
 
 
 
