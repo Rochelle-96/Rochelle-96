@@ -16,7 +16,7 @@
 
 ## How to reach me 
  <a href="mailto:greatparkhc@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=naver"
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"
             style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
     </a>
 <!---
