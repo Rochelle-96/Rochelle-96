@@ -1,7 +1,9 @@
 ## 👋 Hi, I’m @Rochelle-96
 - 👩🏻‍💼   Junior Web & App developer
 - 🌱 I’m currently learning SpringFramework and Android.
-<br>
+</br>
+
+
 ## 🛠 Tech Stack 🛠
 <div align="center">
  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white" width="60px"/> 
