@@ -16,8 +16,7 @@
 
 ## How to reach me 
  <a href="mailto:greatparkhc@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"
-            style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail" width="70px"/>
     </a>
 <!---
 Rochelle-96/Rochelle-96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
