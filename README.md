@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @Rochelle-96
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning SpringFramework
+- 📫 How to reach me ☏ 010-5739-6739
+<br><br><br>📧 greatparkhc9@naver.com
+
+
+
 
 <!---
 Rochelle-96/Rochelle-96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
