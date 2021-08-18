@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m @Rochelle-96
 - 👩🏻‍💼   Junior Web & App developer
-- 🌱 I’m currently learning SpringFramework and Android.
+- 🌱 I’m currently learning SpringFramework, JavaScript and Android.
 </br>
 
 
